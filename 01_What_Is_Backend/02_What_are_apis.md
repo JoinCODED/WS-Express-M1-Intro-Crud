@@ -34,5 +34,7 @@ The API then takes your request to Twitter's servers, ask it for the tweets and 
     },
 ]
 ```
+![1](https://user-images.githubusercontent.com/84308096/153881206-d88bea96-1535-47f3-9a71-f26fb1044dde.gif)
 
-[]()
+
+
