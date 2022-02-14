@@ -81,7 +81,7 @@ Test your new endpoint in `Postman` and to make sure all is working, send a requ
 
 Result:
 
-![]()
+![2](https://user-images.githubusercontent.com/84308096/153881655-bab2b83f-3a5c-490a-a15a-df33bc02f4bf.png)
 
 Note that the default success response status is `200`, we will change it to `201` which means that the item is created successfully.
 
